@@ -1,0 +1,68 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 1,
+			"hideicon": true,
+			"hideiconafter": 120,
+			"iconurl": "https://i.imgur.com/2s0tMmK.png",
+			"disableicontext": true,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.imgur.com/Nx4H1Da.jpeg",
+				"content": [
+					{
+						"title": "FerentariArK",
+						"text": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r\n\r\n                WELCOME TO FERENTARIARK ASCENDED\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r\n\r\nFirst of all, thank you for choosing to spend your time with us.\r\n\r\nFerentariArK isn't just another server that appeared overnight.\r\nOur community was built over years on ARK: Survival Evolved, where\r\nhundreds of players created unforgettable memories, rivalries,\r\nalliances, and legendary raids.\r\n\r\nWhen ARK: Survival Ascended released, we didn't simply start over.\r\n\r\nWe brought our experience, our community, and our passion with us.\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r\n\r\nOUR PHILOSOPHY\r\n\r\nToo many servers open with big promises only to disappear after a\r\nfew weeks or wipe every month.\r\n\r\nThat's not who we are.\r\n\r\nFerentariArK is designed to be a long-term home for players who\r\nwant their progress to matter.\r\n\r\nEvery base you build.\r\nEvery creature you tame.\r\nEvery war you fight.\r\nEvery friendship and rivalry you create.\r\n\r\nIt all becomes part of the server's history.\r\n\r\nWe're here for the long run.\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r\n\r\nWHAT YOU CAN EXPECT\r\n\r\n✓ Long-Term No Wipe Progression\r\n\r\nBuild without worrying about losing months of work because of\r\nscheduled wipes.\r\n\r\n✓ Experienced Administration\r\n\r\nWe've been managing ARK communities since Survival Evolved.\r\nWe understand what players expect from a quality server and we're\r\nalways working to improve the experience.\r\n\r\n✓ Community First\r\n\r\nEvery update, event, balance adjustment and decision is made with\r\nthe community in mind. We actively listen to feedback because the\r\nbest servers are built together with their players.\r\n\r\n✓ Fair Competitive PvP\r\n\r\nWhether you're a solo survivor or a large tribe, our goal is to\r\ncreate a balanced environment where strategy, teamwork and skill\r\nmatter more than unfair advantages.\r\n\r\n✓ Stable Dedicated Hardware\r\n\r\nHigh-performance hosting means better stability, smoother gameplay\r\nand a server you can rely on every day.\r\n\r\n✓ Continuous Development\r\n\r\nFerentariArK will continue growing with new maps, events, quality\r\nof life improvements and new features as ARK: Survival Ascended\r\nevolves.\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r\n\r\nOUR PROMISE\r\n\r\nWe're investing our time and resources into building something\r\nthat lasts.\r\n\r\nThis isn't a temporary project.\r\n\r\nThis isn't a server that disappears after the hype fades.\r\n\r\nOur goal is to create one of the best long-term ARK Survival\r\nAscended communities, where players can always return knowing\r\ntheir progress is still here.\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r\n\r\nGET STARTED\r\n\r\nF1 = Server Shop\r\n\r\nF2 = Server Information, Rates & Discord\r\n\r\nJoin our Discord to stay informed about updates, events,\r\ngiveaways, announcements and community discussions.\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r\n\r\nThank you for becoming part of the next chapter of FerentariArK.\r\n\r\nWe hope you'll build unforgettable memories here,\r\njust like thousands of hours of memories were made during the\r\nSurvival Evolved era.\r\n\r\nGood luck, Survivor.\r\n\r\nWelcome home.\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Rules",
+				"imageurl": "https://i.imgur.com/Nx4H1Da.jpeg",
+				"content": [
+					{
+						"title": "Server Rules",
+						"text": "SERVER RULES\r\n\r\n1. Chat & Community\r\n\r\nChat is moderated both in-game and on Discord.\r\n\r\nThe following are prohibited:\r\n\r\nRacism, hate speech, discrimination or harassment.\r\nPersonal attacks or targeted bullying.\r\nIllegal, NSFW or inappropriate content.\r\nImpersonating staff members.\r\nCircumventing the chat filter.\r\nAdvertising other servers or communities without permission.\r\n\r\nFriendly trash talk is welcome, but keep it in #ark-trash-talk.\r\n\r\nChat Punishments\r\nWarning → 24 Hour Mute → 30 Day Mute → Permanent Mute\r\n\r\nUsing alternate accounts to bypass chat punishments will result in a permanent ban.\r\n\r\n2. Cheating & Exploits\r\n\r\nAny form of cheating is strictly prohibited.\r\n\r\nThis includes, but is not limited to:\r\n\r\nHacks\r\nESP\r\nAimbots\r\nDuping\r\nMeshing\r\nPacket manipulation\r\nThird-party software providing an unfair advantage\r\nExploiting unintended game mechanics\r\n\r\nExploiting a bug is still cheating, even if the exploit is publicly known.\r\n\r\nPunishment: Permanent Ban\r\n\r\n3. Spawn Protection\r\n\r\nDo not intentionally grief new players.\r\n\r\nThis includes:\r\n\r\nBlocking spawn locations.\r\nBuilding unavoidable death traps.\r\nLeaving aggressive creatures at beginner spawns.\r\nPreventing players from safely entering the map.\r\n\r\n4. Tribe Integrity\r\n\r\nInsiding is prohibited.\r\n\r\nExamples include:\r\n\r\nStealing tribe assets without permission.\r\nSabotaging your own tribe.\r\nDisabling defenses for enemies.\r\nSharing tribe access with enemy tribes.\r\nIntentionally helping another tribe destroy your own.\r\n\r\n5. Macros & Automation\r\n\r\nCombat automation is not allowed.\r\n\r\nForbidden:\r\n\r\nCombat macros\r\nRecoil scripts\r\nAutomated healing\r\nAuto-clickers used during PvP\r\nAutomated combat actions\r\n\r\nQuality-of-life macros that do not automate gameplay or provide a PvP advantage are allowed.\r\n\r\n6. Building Rules\r\n\r\nBuilding should never prevent other players from accessing intended game content.\r\n\r\nThe following are prohibited:\r\n\r\nFloating structures.\r\nUnintended building exploits.\r\nExcessive foundation or pillar spam.\r\nBlocking player spawn areas.\r\nBlocking obelisks.\r\nBlocking boss terminals.\r\nBlocking mission terminals.\r\nBlocking artifact caves.\r\nBlocking wyvern trenches.\r\nBlocking public teleporters.\r\nBlocking important progression areas.\r\n\r\nMaximum of 2 cave bases per map per tribe.\r\n\r\n7. Illegal Base Locations\r\n\r\nOnly intended base locations are allowed.\r\n\r\nIllegal locations include:\r\n\r\nMesh bases.\r\nOut-of-bounds areas.\r\nRat holes requiring unintended movement.\r\nLocations accessible only by unconscious players, chairs, zip-lines, exploits or similar unintended mechanics.\r\n\r\nIf reaching your base requires exploiting the game, it is not allowed.\r\n\r\n8. Platform & Turret Exploits\r\n\r\nDo not abuse unintended building mechanics.\r\n\r\nExamples include:\r\n\r\nBypassing turret line of sight.\r\nFoundation range exploits.\r\nInvulnerable firing positions.\r\nPlatform builds that make creatures effectively immune to damage.\r\n\r\n9. FOB Rules\r\n\r\nForward Operating Bases (FOBs) are temporary.\r\n\r\nThey must:\r\n\r\nBe removed after the raid.\r\nBe removed within 48 hours if abandoned.\r\n\r\nThe following are not allowed:\r\n\r\nEmpty turret FOBs.\r\nPermanent FOBs.\r\nCave claims used only to reserve territory.\r\n\r\n10. Dino Rules\r\n\r\nDino stacking is allowed provided it does not intentionally create excessive server lag.\r\n\r\nStaff may require tribes to reduce excessive creature counts if server performance is affected.\r\n\r\n11. Caging Players\r\n\r\nPlayers may only be caged for a maximum of 2 hours.\r\n\r\nAfter this period they must be released or killed.\r\n\r\n12. Reporting Players\r\n\r\nIf you suspect cheating or rule violations, submit a support ticket with video or screenshot evidence whenever possible.\r\n\r\nPublic accusations without evidence may be removed.\r\n\r\n13. Punishments\r\n\r\nUnless otherwise stated:\r\n\r\nWarning → 24 Hour Ban → Permanent Ban\r\n\r\nSevere violations such as cheating, meshing, duping or repeated abuse may skip directly to a permanent ban.\r\n\r\n14. Rule Circumvention\r\n\r\nAttempting to exploit loopholes or intentionally bypass the spirit of these rules is considered rule breaking.\r\n\r\nIf something is clearly unfair but not explicitly listed, staff may still take action.\r\n\r\nStaff decisions are final.\r\n\r\n15. Common Sense\r\n\r\nPlay fair.\r\n\r\nRespect other players.\r\n\r\nHelp us build a competitive and enjoyable community.\r\n\r\nDon't be a dick."
+					},
+					{
+						"title": "JSON settings:",
+						"text": "OpenButton  -  0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5=Delete, 6=Home  -  Determines the button the player needs to press to open the UI.\n\nHideIcon  -  true/false, default: false  -  If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter  -  integer, default: 60  -  Determines after how many seconds the Icon vanishes.\n\nIconURL  -  \"URL\", default: \"https://i.imgur.com/OZ6xOjY.png\"  -  You can upload a custom image somewhere (e.g. imgur, link down below) and it will be used as the Icon in the bottom left.\n\nDisableIconText  -  true/false, default:false  -  If true the text \"F1 for Info\" will not be displayed.\n\nIconPosition  -  0/1/2/3, default:0, 0=Top Left, 1=Top Right, 2=Bottom Right, 3=Bottom Left  -  Set the position of the Icon.\n\nIconTextColor  -  0/1/2/3/4/5/6/7/8, default:0, 0=Light Blue, 1=Red, 2=Green, 3=Blue, 4=Yellow, 5=Orange, 6=Violet, 7=Black, 8=White  -  Sets the color of the \"F1 For Info\" text.\n\nOpenOnStart  -  true/false, default: true  -  If true the UI will open automatically after the player spawned.\n\nOpenOnStartOnlyNewPlayers  -  true/false, default: true  -  If true the UI only opens automatically the first time the player spawns on the server.\n\nUpdateInterval  -  integer, default: 12  -  This value determines the time in hours the mod automatically pulls the JSON from the URL to update settings.\n\nGENERAL INFORMATION:\n\n\nFor the rest of the settings pls checkout the Wiki or the example JSON linked down below.\n\nIn order to pass the JSON-validation you have to use \"*backslash*n\" without a space to generate newlines. although the mod should handle regular newlines just fine.\n\nSpecial characters like \" have to be escaped with a *backslash*\n\nYou can trigger an update of the JSON via console command: \"cheat scriptcommand WBUI2 update\"\n\nBe careful with the file size of the images. The user have to download the images."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Server Rates",
+				"imageurl": "https://i.imgur.com/Nx4H1Da.jpeg",
+				"content": [
+					{
+						"title": "Server Rates",
+						"text": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r\nFERENTARIARK ASCENDED\r\nLong-Term PvP Cluster\r\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r\n\r\nSERVER RATES\r\n\r\nExperience = x3\r\nHarvest = x5\r\nTaming = x10\r\n\r\nBreeding Speed = x10\r\nMating Interval = x0.1 (10x Faster)\r\nEgg Hatch Speed = x20\r\nBaby Maturation = x15\r\nImprint Amount = x10\r\nBaby Food Consumption = x1\r\n\r\nCrop Growth = x10\r\nCrop Decay = x0.5\r\n\r\nSupply Crate Loot = x5\r\nFishing Loot = x5\r\n\r\nItem Stack Size = x10\r\n\r\nMaximum Wild Dino Level = 150\r\nMaximum Blueprint Dino Level = 666\r\n\r\nPlayer Health Recovery = x3\r\nDino Health Recovery = x2\r\n\r\nFood Drain = x0.5\r\nWater Drain = x0.5\r\n\r\nMaximum Tribe Size = 20 Players\r\nTribe Alliances = Disabled\r\n\r\nPersonal Dino Limit = 300\r\nServer Dino Limit = 5000\r\n\r\nOffline Raid Protection = Enabled\r\nORP Activation = 30 Minutes\r\n\r\nCrosshair = Enabled\r\nThird Person = Enabled\r\nGamma = Allowed\r\nFloating Damage = Enabled\r\nHit Markers = Enabled\r\n\r\nStructure Pickup = Enabled\r\n\r\nStructure Placement Collision = Disabled\r\nCave Building = Enabled\r\n\r\nFlyer Speed Leveling = Disabled\r\nPlayer Speed Leveling = Disabled\r\nFlying Stamina Recovery = Enabled\r\n\r\nCryo Hospital = Enabled\r\n\r\nAutomatic Structure Decay = Enabled\r\nAutomatic Decayed Dino Cleanup = Enabled\r\n\r\nCrossplay = Enabled\r\nPvP = Enabled\r\nNo Wipes = Yes\r\nLong-Term Progression = Yes\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\nPVP SETTINGS\r\n\r\n• Offline Raid Protection\r\n• No Tribe Alliances\r\n• 20 Player Tribes\r\n• Third Person Enabled\r\n• Crosshair Enabled\r\n• Gamma Allowed\r\n• Hit Markers Enabled\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\nQUALITY OF LIFE\r\n\r\n• Structure Pickup Enabled\r\n• Flyer Stamina Recovery Enabled\r\n• Cave Building Enabled\r\n• Cryopod Hospital\r\n• Better Item Stacks\r\n• Floating Damage Numbers\r\n• Forced Structure Locking\r\n• Auto Destroy Decayed Structures\r\n• High Performance Server\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\nSERVER INFO\r\n\r\nNo Wipes\r\nLong-Term Progression\r\nCrossplay Enabled\r\nDedicated Administration\r\nActive Community\r\n\r\n\r\nHave fun and survive!\r\n━━━━━━━━━━━━━━━━━━━━━━"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/5w9XRs9m9Y"
+			},
+			{
+				"text": "PayPal",
+				"url": "https://www.paypal.com/paypalme/FerentariARK"
+			}
+		],
+		"version": 2
+	}
+}
